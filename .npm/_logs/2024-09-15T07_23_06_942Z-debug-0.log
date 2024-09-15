@@ -1,0 +1,25 @@
+0 verbose cli /usr/bin/node-18 /usr/bin/npm
+1 info using npm@10.5.0
+2 info using node@v18.20.2
+3 timing npm:load:whichnode Completed in 156ms
+4 timing config:load:defaults Completed in 3ms
+5 timing config:load:file:/usr/lib/node_modules_18/npm/npmrc Completed in 74ms
+6 timing config:load:builtin Completed in 74ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:project Completed in 77ms
+10 timing config:load:file:/home/ec2-user/.npmrc Completed in 0ms
+11 timing config:load:user Completed in 0ms
+12 timing config:load:file:/etc/npmrc Completed in 0ms
+13 timing config:load:global Completed in 0ms
+14 timing config:load:setEnvs Completed in 1ms
+15 timing config:load Completed in 159ms
+16 timing npm:load:configload Completed in 159ms
+17 timing config:load:flatten Completed in 70ms
+18 timing npm:load:mkdirpcache Completed in 80ms
+19 timing npm:load:mkdirplogs Completed in 0ms
+20 verbose title npm run dev
+21 verbose argv "run" "dev"
+22 timing npm:load:setTitle Completed in 1ms
+23 timing npm:load:display Completed in 0ms
+24 verbose logfile logs-max:10 dir:/home/ec2-user/.npm/_logs/2024-09-15T07_23_06_942Z-
